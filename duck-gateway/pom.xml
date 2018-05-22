@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>gateway</name>
+	<name>duck-gateway</name>
 	<description>服务网关</description>
 
 	<parent>
