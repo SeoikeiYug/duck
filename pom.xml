@@ -13,6 +13,8 @@
 
 	<modules>
 		<module>duck-config</module>
+		<module>duck-eureka</module>
+		<module>duck-gateway</module>
 	</modules>
 
 	<parent>
