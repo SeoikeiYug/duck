@@ -1,16 +1,12 @@
-server:
-  port: 2000
-
 spring:
   application:
-    name: duck-config-server
-  profiles:
-    active: native
+    name: duck-gateway
   cloud:
     config:
-      server:
-        native:
-          search-locations: classpath:/config
+      fail-fast: true
+      discovery:
+        service-id: duck-config-server
+        enabled: true
 
 eureka:
   instance:
