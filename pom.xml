@@ -15,6 +15,7 @@
 		<module>duck-config</module>
 		<module>duck-eureka</module>
 		<module>duck-gateway</module>
+		<module>duck-auth</module>
 	</modules>
 
 	<parent>

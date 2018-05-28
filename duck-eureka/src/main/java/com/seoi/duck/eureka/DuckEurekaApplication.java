@@ -1,4 +1,4 @@
-package com.seoi.duck.duckeureka;
+package com.seoi.duck.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
