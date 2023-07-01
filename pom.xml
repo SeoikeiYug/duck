@@ -14,6 +14,7 @@
     <modules>
         <module>duck-service-a</module>
         <module>duck-service-b</module>
+        <module>duck-service-provider</module>
     </modules>
 
     <properties>
